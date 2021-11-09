@@ -1,10 +1,7 @@
-<p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://avatars.githubusercontent.com/u/88565392?s=40&v=4">
-</p>
 <h1 align="center">Kirira</h1>
 
 <p align="center">    
-    <img src="https://github.com/Flam3rboy/Flam3rboy/blob/master/github-metrics.svg">
+    <img src="https://github.com/Kirira7154/Kirira7154/blob/master/github-metrics.svg">
 </p>
 
 <p>
