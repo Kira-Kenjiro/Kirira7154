@@ -6,7 +6,7 @@
 <h2>Projects</h2>
 </p>
 
-<table>
+<table align="center">
 	<thead>
 		<tr>
 		<th>Name</th>
@@ -36,7 +36,7 @@
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table align="center">
 
 ---
 
