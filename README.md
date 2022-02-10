@@ -17,9 +17,7 @@
 			<td><a href="https://github.com/Kirira7154/BoxBoxNetwork">BoxBoxNetwork</a></td>
 			<td>BoxBox is a free open-source botnet client and server enviroment</td>
 			<td>
-				<img src="https://img.shields.io/opencollective/all/fosscord">
-				<img src="https://img.shields.io/github/contributors/fosscord/fosscord">
-				<img src="https://img.shields.io/github/stars/fosscord/fosscord">
+				<img src="https://img.shields.io/github/commit-activity/w/Kirira7154/BoxBoxNetwork?color=purple">
 			</td>
 		</tr>
 		<tr>
