@@ -13,7 +13,7 @@
 	<tbody>
 		<tr>
 			<td><a href="https://github.com/Kirira7154/BoxBoxNetwork">BoxBoxNetwork</a></td>
-			<td>BoxBox is a free open-source botnet client and server enviroment</td>
+			<td>BoxBox is a free open-source botnet client and server enviroment.</td>
 			<td>
 				<img src="https://img.shields.io/github/commit-activity/w/Kirira7154/BoxBoxNetwork?color=purple">
 			</td>
@@ -23,7 +23,7 @@
 				<a href="https://github.com/Kirira7154/Astradal">Astradal Main Repository</a>
 			</td>
 			<td>
-				Astradal is a minecraft vanilla/rpg style server. This repository is for the developers for deployment!
+				Astradal is a minecraft vanilla/rpg style server. This repository is for the developers to deploy updates.
 			</td>
 			<td>
 				Private repository
