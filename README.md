@@ -23,10 +23,10 @@
 				<a href="https://github.com/Kirira7154/Astradal">Astradal Main Repository</a>
 			</td>
 			<td>
-				Astradal is a minecraft vanilla/rpg style server. This private repository is for the developers!
+				Astradal is a minecraft vanilla/rpg style server. This repository is for the developers for deployment!
 			</td>
 			<td>
-				<g xmlns="http://www.w3.org/2000/svg" fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="485" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="850">commit public</text><text x="485" y="140" transform="scale(.1)" fill="#fff" textLength="850">commit public</text><text aria-hidden="true" x="1195" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="410">false</text><text x="1195" y="140" transform="scale(.1)" fill="#fff" textLength="410">false</text></g>
+				Private repository
 			</td>
 		</tr>
 	</tbody>
