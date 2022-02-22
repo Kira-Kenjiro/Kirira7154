@@ -20,13 +20,13 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/x127f/timetable-generator">Timetable generator</a>
+				<a href="https://github.com/Kirira7154/Astradal">Astradal Main Repository</a>
 			</td>
 			<td>
-				Ultimate flexible agile timetable generator
+				Astradal is a minecraft vanilla/rpg style server. This **private** repository is for the developers!
 			</td>
 			<td>
-				<img src="https://img.shields.io/github/languages/top/x127f/timetable-generator?color=2d7389">
+				<img src="https://img.shields.io/github/commit-activity/w/Kirira7154/Astradal?color=purple">
 			</td>
 		</tr>
 	</tbody>
