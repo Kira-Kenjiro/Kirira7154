@@ -23,7 +23,7 @@
 				<a href="https://github.com/Kirira7154/Astradal">Astradal Main Repository</a>
 			</td>
 			<td>
-				Astradal is a minecraft vanilla/rpg style server. This repository is for the developers to deploy updates.
+				Astradal is a vanilla based RPG style minecraft server. This repository is for the developers to deploy updates.
 			</td>
 			<td>
 				Private repository
